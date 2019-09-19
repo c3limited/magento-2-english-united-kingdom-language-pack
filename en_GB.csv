@@ -86,7 +86,7 @@
 "Create Order","Create Order",module,Magento_AdvancedCheckout
 "Back","Back",module,Magento_AdvancedCheckout
 "Add Products","Add Products",module,Magento_AdvancedCheckout
-"Update Items and Quantities","Miktar ve öğeleri güncelle",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Update Items and Quantities",module,Magento_AdvancedCheckout
 "Are you sure you want to clear your cart?","Are you sure you want to clear your basket?",module,Magento_AdvancedCheckout
 "Clear my shopping cart","Clear my shopping basket",module,Magento_AdvancedCheckout
 "Add selections to my cart","Add selections to my basket",module,Magento_AdvancedCheckout
@@ -6973,7 +6973,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Total","Total",module,Magento_GiftRegistry
 "Add to Gift Registry","Add to Gift Registry",module,Magento_GiftRegistry
 "Are you sure you want to add these products?","Are you sure you want to add these products?",module,Magento_GiftRegistry
-"Update Items and Quantities","Miktar ve öğeleri güncelle",module,Magento_GiftRegistry
+"Update Items and Quantities","Update Items and Quantities",module,Magento_GiftRegistry
 "ID","ID",module,Magento_GiftRegistry
 "Requested","Requested",module,Magento_GiftRegistry
 "Fulfilled","Fulfilled",module,Magento_GiftRegistry
@@ -12290,7 +12290,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Row Subtotal","Row Subtotal",module,Magento_Sales
 "Action","Action",module,Magento_Sales
 "No ordered items","No ordered items",module,Magento_Sales
-"Update Items and Quantities","Miktar ve öğeleri güncelle",module,Magento_Sales
+"Update Items and Quantities","Update Items and Quantities",module,Magento_Sales
 "Total %1 product(s)","Total %1 product(s)",module,Magento_Sales
 "Subtotal:","Subtotal:",module,Magento_Sales
 "Tier Pricing","Tier Pricing",module,Magento_Sales
